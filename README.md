@@ -1,2 +1,3 @@
-# eR_task
-This repository contains basic level exercise solutions about the machine learning concepts.  
+# Machine Learning basic exercise solutions
+This repository contains ML exercise solutions about the machine learning concepts with demonstration of the ML concepts.
+
